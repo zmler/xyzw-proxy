@@ -1,0 +1,16 @@
+# 仓库仅发布程序与文档，忽略源码和构建产物
+*.py
+*.ps1
+.venv/
+__pycache__/
+build/
+build-onefile/
+dist/
+dist-onefile/
+*.spec
+logs/
+*.log
+.proxy-backup.json
+*.zip
+Thumbs.db
+desktop.ini
